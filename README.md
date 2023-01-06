@@ -1,1 +1,1 @@
-Areli Garcia
+Areli Garcia arelig@uchicago.edu
