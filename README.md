@@ -1,3 +1,3 @@
 Areli Garcia arelig@uchicago.edu
 Uchicago CS Git Tutorial
-Git is pretty cool
+Git is pretty cool!
